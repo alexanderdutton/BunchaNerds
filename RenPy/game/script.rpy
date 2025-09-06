@@ -24,7 +24,7 @@ label start:
 
     # These display lines of dialogue.
 
-    e "Nishan is a greatest."
+    e "Nishan is the greatest."
 
     e "Once you add a story, pictures, and music, you can release it to the world!"
 
